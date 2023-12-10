@@ -15,7 +15,7 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 Danny has shared with you 3 key datasets for this case study:
 
-sales
-menu
-members
-You can inspect the entity relationship diagram and example data below.
+1. Sales
+2. Menu
+3. Members
+
